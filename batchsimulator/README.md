@@ -1,7 +1,6 @@
 # Batchsimulator
 
-**TODO: Add description**
-
+Inspired by the batch, an elixir simple implementation.
 ## Installation
 
 If [available in Hex](https://hex.pm/docs/publish), the package can be installed
